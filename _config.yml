@@ -60,6 +60,9 @@ descriptions:
 
   - cat: hadoop
     desc: "hadoop related posts."
+    
+  - cat: elasticsearch
+    desc: "elasticsearch related posts."
 
 # Social icons and sharing options
 #
